@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  I'm Dev Verma, a passionate Full Stack Web Developer based in India. I love building web applications and contributing to open-source projects. Currently, I'm pursuing my Bachelor's degree in Computer Science and Engineering from ABES Engineering College.
+  I'm Dev Verma, a passionate Web Developer based in India. I love building web applications and contributing to open-source projects. Currently, I'm pursuing my Bachelor's degree in Computer Science and Engineering from ABES Engineering College.
 </p>
 
 <hr>
