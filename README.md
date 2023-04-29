@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/DevVerma07/DevVerma07/main/assets/banner.gif" alt="Hello World!" />
 </p>
 
@@ -80,3 +80,4 @@
   </a>
 </p>
 
+ -->
