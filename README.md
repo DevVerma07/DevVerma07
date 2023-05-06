@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  I'm Dev Verma, a passionate Web Developer based in India. I love building web applications and contributing to open-source projects. Currently, I'm pursuing my Bachelor's degree in Computer Science and Engineering from ABES Engineering College.
+  I'm Dev Kumar Verma, a passionate Web Developer based in India. I love building web applications and contributing to open-source projects. I completed my Bachelor's degree in Computer Science and Engineering from Raipur Institute of Technology, Raipur.
 </p>
 
 <hr>
@@ -13,7 +13,7 @@
 <h2>🔭 Current work</h2>
 
 <ul>
-  <li>Building web applications using React, Node.js, and MongoDB.</li>
+  <li>Working on my own projects using laravel</li>
   <li>Contributing to open-source projects on GitHub.</li>
 </ul>
 
@@ -22,8 +22,8 @@
 <h2>🌱 Learning</h2>
 
 <ul>
-  <li>Building scalable web applications with microservices architecture.</li>
-  <li>Best practices for testing and debugging in React.</li>
+  <li>Buildin web applications with Laravel.</li>
+  <li>Learning New Technologies</li>
 </ul>
 
 <hr>
@@ -31,10 +31,10 @@
 <h2>👨‍💻 Skills</h2>
 
 <ul>
-  <li><b>Languages:</b> JavaScript, TypeScript, Python, Java, C++.</li>
-  <li><b>Frontend Development:</b> React, HTML, CSS, Bootstrap, Material UI.</li>
-  <li><b>Backend Development:</b> Node.js, Express.js, MongoDB, PostgreSQL, GraphQL.</li>
-  <li><b>Tools and Technologies:</b> Git, GitHub, VS Code, Heroku, Netlify.</li>
+  <li><b>Languages:</b> JavaScript, C, C++.</li>
+  <li><b>Frontend Development:</b> HTML, CSS, Bootstrap.</li>
+  <li><b>Backend Development:</b>PHP, MyQSL.</li>
+  <li><b>Tools and Technologies:</b> Git, GitHub, VS Code.</li>
 </ul>
 
 <hr>
@@ -42,7 +42,7 @@
 <h2>📚 Education</h2>
 
 <ul>
-  <li>Pursuing B.Tech in Computer Science and Engineering from ABES Engineering College.</li>
+  <li>Complited B.Tech in Computer Science and Engineering from Raipur Institute of Technology, Raipur.</li>
 </ul>
 
 <hr>
@@ -69,14 +69,14 @@
 <h2>🤝 Let's connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devverma07/">
-    <img src="https://img.shields.io/badge/-devverma07-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  <a href="https://www.linkedin.com/in/dev-kumar-verma/">
+    <img src="https://img.shields.io/badge/-dev-kumar-verma-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://twitter.com/DevVerma07">
-    <img src="https://img.shields.io/badge/-@DevVerma07-1ca0f1?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge">
+  <a href="https://twitter.com/Dev_verma_01">
+    <img src="https://img.shields.io/badge/-@Dev_verma_01-1ca0f1?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
-  <a href="https://devverma.tech/">
-    <img src="https://img.shields.io/badge/-devverma.tech-black?style=flat-square&logo=firefox&logoColor=white" alt="Website Badge">
+  <a href="https://gitlab.com/DevVerma07">
+    <img src="https://img.shields.io/badge/-Gitlab%20-black?style=flat-square&logo=gitlab&logoColor=" alt="Website Badge">
   </a>
 </p>
 
