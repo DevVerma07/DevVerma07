@@ -1,5 +1,5 @@
 <p align="center">
-![Alt Text](https://path/to/your/animation.gif)
+  ![](https://raw.githubusercontent.com/DevVerma07/DevVerma07/master/resources/hello.gif)
 <!-- 
 <p align="center"> 
   Visitor count<br>
