@@ -69,9 +69,19 @@
 <h2>🤝 Let's connect</h2>
 
 <p align="center">
-[![LinkedIn Badge](https://img.shields.io/badge/-dev%20kumar%20verma-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-kumar-verma/)  
-[![Twitter Badge](https://img.shields.io/badge/-@Dev_verma_01-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Dev_verma_01)  
-[![Website Badge](https://img.shields.io/badge/-Gitlab%20-black?style=flat-square&logo=gitlab&logoColor=)](https://gitlab.com/DevVerma07)
+    <a href="https://www.linkedin.com/in/dev-kumar-verma/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="https://twitter.com/Dev_verma_01">
+        <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge">
+    </a>
+     <a href="https://gitlab.com/DevVerma07">
+    <img src="https://img.shields.io/badge/-Gitlab%20-black?style=flat-square&logo=gitlab&logoColor=" alt="Website Badge">
+    </a>
+  <a href="https://www.instagram.com/dev_verma_.01/">
+    <img src="//img.shields.io/badge/Instagram-%23833ab4?style=flat-square&logo=instagram&logoColor=white" alt="Website Badge">
+    </a>
+  
 </p>
 
 
