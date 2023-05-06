@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevVerma07/DevVerma07/main/assets/banner.gif" alt="Hello World!" />
+ <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DevVerma07/count.svg" />
+</p>
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
