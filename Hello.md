@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/badge/-Gitlab%20-black?style=flat-square&logo=gitlab&logoColor=" alt="Website Badge">
     </a>
   <a href="https://www.instagram.com/dev_verma_.01/">
-    <img src="//img.shields.io/badge/Instagram-%23833ab4?style=flat-square&logo=instagram&logoColor=white" alt="Website Badge">
+    <img src="https://img.shields.io/badge/Instagram-%23833ab4?style=flat-square&logo=instagram&logoColor=white" alt="Website Badge">
     </a>
   
 </p>
