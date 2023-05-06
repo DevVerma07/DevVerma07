@@ -7,7 +7,7 @@
 </p> -->
 </p>
 
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> </h1>
 
 <p align="center">
   I'm Dev Kumar Verma, a passionate Web Developer based in India. I love building web applications and contributing to open-source projects. I completed my Bachelor's degree in Computer Science and Engineering from Raipur Institute of Technology, Raipur.
@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2>🔭 Current work</h2>
+<h2><img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="35"> Current work</h2>
 
 <ul>
   <li>Working on my own projects using laravel</li>
@@ -24,7 +24,7 @@
 
 <hr>
 
-<h2>🌱 Learning</h2>
+<h2> <img src="https://media.giphy.com/media/RRCwszKbc04jR0QxiU/giphy.gif" width="35">Learning</h2>
 
 <ul>
   <li>Buildin web applications with Laravel.</li>
@@ -33,7 +33,7 @@
 
 <hr>
 
-<h2>👨‍💻 Skills</h2>
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills</h2> 
 
 <ul>
   <li><b>Languages:</b> JavaScript, C, C++.</li>
@@ -44,7 +44,7 @@
 
 <hr>
 
-<h2>📚 Education</h2>
+<h2><img src="https://media.giphy.com/media/3w4h3Al4tgX1mNoZS7/giphy.gif" height="25" width="20"> Education</h2>
 
 <ul>
   <li>Complited B.Tech in Computer Science and Engineering from Raipur Institute of Technology, Raipur.</li>
@@ -52,26 +52,24 @@
 
 <hr>
 
-<h2>📈 GitHub Stats</h2>
-
+<h2> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"/> GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevVerma07&show_icons=true&theme=algolia" alt="Dev Verma's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVerma07&layout=compact&theme=algolia" alt="Dev Verma's top languages" />
+<a href="https://github.com/DevVerma07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevVerma07&show_icons=true&theme=algolia" alt"dev stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVerma07&layout=compact&theme=algolia" />
+</a>
 </p>
 
 <hr>
 
-## GitHub streak
+## <img src="https://media.giphy.com/media/Leoxjtlf6ABAnMlg96/giphy.gif" height="35" width="30"> GitHub streak </h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevVerma07&layout=compact&theme=algolia" alt="DevVerma07's GitHub Streak" />
 </p>
 
 
-<h2>🤝 Let's connect</h2>
+<h2> <img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"> Let's connect</h2>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/dev-kumar-verma/" target="_blank">
