@@ -1,10 +1,10 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
+![Alt Text](https://path/to/your/animation.gif)
+<!-- 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/DevVerma07/count.svg" />
-</p>
+</p> -->
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
