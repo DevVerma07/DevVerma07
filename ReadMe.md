@@ -1,5 +1,5 @@
 <p align="center">
-  ![](https://raw.githubusercontent.com/DevVerma07/DevVerma07/master/resources/hello.gif)
+<img src="https://raw.githubusercontent.com/DevVerma07/DevVerma07/master/resources/hello.gif" height="250" width="1080">
 <!-- 
 <p align="center"> 
   Visitor count<br>
