@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/DevVerma07/DevVerma07/master/resources/hello.gif" height="250" width="1080">
+<!-- <img src="https://raw.githubusercontent.com/DevVerma07/DevVerma07/master/resources/hello.gif" height="250" width="1080"> -->
+<img src="https://raw.githubusercontent.com/DevVerma07/DevVerma07/master/resources/HORROR.gif" height="350" width="1080">
 <!-- 
 <p align="center"> 
   Visitor count<br>
