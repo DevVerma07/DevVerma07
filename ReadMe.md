@@ -28,7 +28,7 @@
 <h2> <img src="https://media.giphy.com/media/RRCwszKbc04jR0QxiU/giphy.gif" width="35">Learning</h2>
 
 <ul>
-  <li>Buildin web applications with Laravel.</li>
+  <li>Building web applications with Laravel.</li>
   <li>Learning New Technologies</li>
 </ul>
 
