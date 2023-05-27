@@ -20,7 +20,9 @@
 
 <ul>
   <li>Working on my own projects using laravel</li>
+  <li>Currently Learning livewire and implementing small project in laravel.</li>
   <li>Contributing to open-source projects on GitHub.</li>
+  
 </ul>
 
 <hr>
