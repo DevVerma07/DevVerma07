@@ -19,15 +19,15 @@
 <h2><img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="35"> Current work</h2>
 
 <ul>
-  <li>Working on my own projects using laravel</li>
-  <li>Currently Learning livewire and implementing small project in laravel.</li>
+  <li>Working on my own projects using Laravel</li>
+  <li>Currently Learning livewire and implementing small projects in Laravel.</li>
   <li>Contributing to open-source projects on GitHub.</li>
   
 </ul>
 
 <hr>
 
-<h2> <img src="https://media.giphy.com/media/RRCwszKbc04jR0QxiU/giphy.gif" width="35">Learning</h2>
+<h2> <img src="https://media.tenor.com/5muD2FopQK0AAAAi/reading-om-nelle.gif" width="28">Learning</h2>
 
 <ul>
   <li>Building web applications with Laravel.</li>
@@ -47,10 +47,10 @@
 
 <hr>
 
-<h2><img src="https://media.giphy.com/media/3w4h3Al4tgX1mNoZS7/giphy.gif" height="25" width="20"> Education</h2>
+<h2><img src="https://media.tenor.com/cj9DCDCk-rAAAAAi/wikipedia-wiki.gif" height="25" width=""> Education</h2>
 
 <ul>
-  <li>Complited B.Tech in Computer Science and Engineering from Raipur Institute of Technology, Raipur.</li>
+  <li>Completed B.Tech in Computer Science and Engineering from Raipur Institute of Technology, Raipur.</li>
 </ul>
 
 <hr>
