@@ -20,6 +20,7 @@
 
 <ul>
   <li>Working on my own projects using Laravel</li>
+  <li>making filament project dashboard.</li>
   <li>Currently Learning livewire and implementing small projects in Laravel.</li>
   <li>Contributing to open-source projects on GitHub.</li>
   
@@ -31,6 +32,7 @@
 
 <ul>
   <li>Building web applications with Laravel.</li>
+  <li>Learning filament for laravel.</li>
   <li>Learning New Technologies</li>
 </ul>
 
