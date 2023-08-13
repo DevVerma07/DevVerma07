@@ -15,7 +15,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/DevVerma07/filament_official?style=plastic&labelColor=blue&color=teal)
 ![GitHub Contributors](https://img.shields.io/github/contributors/DevVerma07/project-ankit?style=plastic&labelColor=blue&color=teal)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/DevVerma07/filament_official?style=plastic&labelColor=blue&color=teal)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg?style=plastic&labelColor=blue)](https://github.com/DevVerma07/CODE_OF_CONDUCT.md)
+![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCQ-iXpqlH5o3ANbtHlJFZ3Q?style=plastic&logo=youtube&logoColor=red&labelColor=blue&color=red&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCQ-iXpqlH5o3ANbtHlJFZ3Q&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCQ-iXpqlH5o3ANbtHlJFZ3Q)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023?style=plastic&labelColor=blue&color=teal)
 </h1>
 
