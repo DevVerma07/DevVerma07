@@ -8,7 +8,18 @@
 </p> -->
 </p>
 
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> </h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
+
+![](https://komarev.com/ghpvc/?username=DevVerma07&style=plastic&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/DevVerma07?logo=appveyor?style=plastic&labelColor=blue&color=teal)
+![GitHub forks](https://img.shields.io/github/forks/DevVerma07/filament_official?style=plastic&labelColor=blue&color=teal)
+![GitHub Contributors](https://img.shields.io/github/contributors/DevVerma07/project-ankit?style=plastic&labelColor=blue&color=teal)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/DevVerma07/filament_official?style=plastic&labelColor=blue&color=teal)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg?style=plastic&labelColor=blue)](https://github.com/DevVerma07/CODE_OF_CONDUCT.md)
+![Maintenance](https://img.shields.io/maintenance/yes/2023?style=plastic&labelColor=blue&color=teal)
+</h1>
+
+
 
 <p align="center">
   I'm Dev Kumar Verma, a passionate Web Developer based in India. I love building web applications and contributing to open-source projects. I completed my Bachelor's degree in Computer Science and Engineering from Raipur Institute of Technology, Raipur.
