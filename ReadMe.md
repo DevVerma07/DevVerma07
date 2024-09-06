@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="https://raw.githubusercontent.com/DevVerma07/DevVerma07/master/resources/hello.gif" height="250" width="1080"> -->
-  <img src="https://raw.githubusercontent.com/DevVerma07/DevVerma07/master/resources/HORROR.gif" height="350" width="1080">
-</p>
+<!--   <img src="https://raw.githubusercontent.com/DevVerma07/DevVerma07/master/resources/home.gif" height="350" width="1080"> -->
+<!-- </p> -->
 
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
 
