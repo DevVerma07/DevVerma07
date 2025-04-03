@@ -24,7 +24,7 @@
 
 <ul>
   <li>Working as a Laravel Developer, improving and building applications.</li>
-  <li>Working on project feature improvements.</li>
+  <li> We are working on project feature improvements.</li>
   <li>Learning AWS for Cloud Practitioner certification.</li>
   <li>Continuously improving my skills with Livewire and Laravel.</li>
   <li>Contributing to open-source projects on GitHub.</li>
@@ -75,7 +75,19 @@
 ## <img src="https://media.giphy.com/media/Leoxjtlf6ABAnMlg96/giphy.gif" height="35" width="30"> GitHub streak </h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevVerma07&layout=compact&theme=algolia" alt="DevVerma07's GitHub Streak" />
+   <picture alt="GitHub Streak">
+            <source
+                srcset="https://github-readme-streak-stats.devworks.co.in?user=DevVerma07&hide_border=true&theme=algolia"
+                media="(prefers-color-scheme: dark)"
+                height="180em"
+            />
+            <source
+                srcset="https://github-readme-streak-stats.devworks.co.in?user=DevVerma07&hide_border=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                height="180em"
+            />
+            <img height="180em" src="https://github-readme-streak-stats.devworks.co.in?user=DevVerma07&hide_border=true&theme=transparent" />
+        </picture>
 </p>
 
 <h2> <img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"> Let's connect</h2>
