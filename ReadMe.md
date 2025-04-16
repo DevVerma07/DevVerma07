@@ -15,19 +15,20 @@
 </h1>
 
 <p align="center">
-  I'm Dev Kumar Verma, a passionate Software Developer (Laravel Developer) based in India with 1.6 years of experience. I enjoy building web applications, contributing to open-source projects, and continuously learning new technologies.
+  I'm Dev Kumar Verma, a passionate Software Developer (Laravel Developer) based in India with 2+ years of experience working on real-world SaaS applications like restaurant POS and society management systems.
 </p>
 
 <hr>
 
-<h2><img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="35"> Current work</h2>
+<h2><img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="35"> Current Work</h2>
 
 <ul>
-  <li>Working as a Laravel Developer, improving and building applications.</li>
-  <li> We are working on project feature improvements.</li>
-  <li>Learning AWS for Cloud Practitioner certification.</li>
-  <li>Continuously improving my skills with Livewire and Laravel.</li>
-  <li>Contributing to open-source projects on GitHub.</li>
+    <li>Working as a Laravel Developer, improving and building applications.</li>
+    <li>Building and improving full-scale SaaS projects like <a href="https://codecanyon.net/item/tabletrack-the-complete-saas-restaurant-management-solution/55116396" target="_blank">TableTrack</a> (restaurant POS) and <a href="https://codecanyon.net/item/societypro-saas-society-management-software/57303227" target="_blank">SocietyPro</a> (society management).</li>
+    <li>Learning AWS for Cloud Practitioner certification.</li>
+    <li>Working on project feature improvements.</li>
+    <li>Continuously improving my skills with Livewire and Laravel.</li>
+    <li>Contributing to open-source projects on GitHub.</li>
 </ul>
 
 <hr>
@@ -47,7 +48,7 @@
 
 <ul>
   <li><b>Languages:</b> JavaScript, C, C++.</li>
-  <li><b>Frontend Development:</b> HTML, CSS, Bootstrap.</li>
+  <li><b>Frontend Development:</b> HTML, CSS, Bootstrap,Tailwind.</li>
   <li><b>Backend Development:</b> PHP, MySQL.</li>
   <li><b>Tools and Technologies:</b> Git, GitHub, VS Code.</li>
 </ul>
