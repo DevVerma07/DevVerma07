@@ -11,7 +11,7 @@
 ![GitHub Contributors](https://img.shields.io/github/contributors/DevVerma07/DevVerma07?style=plastic&labelColor=blue&color=teal)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/DevVerma07/DevVerma07?style=plastic&labelColor=blue&color=teal)
 ![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCQ-iXpqlH5o3ANbtHlJFZ3Q?style=plastic&logo=youtube&logoColor=red&labelColor=blue&color=red)
-[![Maintenance](https://img.shields.io/maintenance/yes/2024?style=plastic&labelColor=blue&color=teal)](https://img.shields.io/maintenance/yes/2024?style=plastic&labelColor=blue&color=teal)
+[![Maintenance](https://img.shields.io/maintenance/yes/2025?style=plastic&labelColor=blue&color=teal)](https://img.shields.io/maintenance/yes/2024?style=plastic&labelColor=blue&color=teal)
 </h1>
 
 <p align="center">
