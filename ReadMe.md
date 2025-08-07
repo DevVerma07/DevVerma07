@@ -78,19 +78,7 @@
 ## <img src="https://media.giphy.com/media/Leoxjtlf6ABAnMlg96/giphy.gif" height="35" width="30"> GitHub streak </h2>
 
 <p align="center">
-   <picture alt="GitHub Streak">
-            <source
-                srcset="https://github-readme-streak-stats.devworks.co.in?user=DevVerma07&hide_border=true&theme=algolia"
-                media="(prefers-color-scheme: dark)"
-                height="180em"
-            />
-            <source
-                srcset="https://github-readme-streak-stats.devworks.co.in?user=DevVerma07&hide_border=true"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                height="180em"
-            />
-            <img height="180em" src="https://github-readme-streak-stats.devworks.co.in?user=DevVerma07&hide_border=true&theme=transparent" />
-        </picture>
+    <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=DevVerma07&theme=algolia&hide_border=false" />
 </p>
 
 <h2> <img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"> Let's connect</h2>
