@@ -49,10 +49,13 @@
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills</h2> 
 
 <ul>
-  <li><b>Languages:</b> JavaScript, C, C++.</li>
-  <li><b>Frontend Development:</b> HTML, CSS, Bootstrap,Tailwind.</li>
-  <li><b>Backend Development:</b> PHP, MySQL.</li>
-  <li><b>Tools and Technologies:</b> Git, GitHub, VS Code.</li>
+  <li><b>Languages:</b> JavaScript, C, C++, PHP, SQL.</li>
+  <li><b>Frontend Development:</b> HTML5, CSS3, Bootstrap, Tailwind CSS, React.js, Vue.js, Alpine.js, AJAX.</li>
+  <li><b>Backend Development:</b> Laravel, Node.js, Express.js, Livewire, RESTful APIs.</li>
+  <li><b>Database:</b> MySQL, MongoDB.</li>
+  <li><b>DevOps & Cloud:</b> AWS, Docker, Docker Compose, CI/CD (GitHub Actions), Linux, Nginx (Basic).</li>
+  <li><b>Tools and Technologies:</b> Git, GitHub, VS Code, Filament, CI/CD Pipelines, , Postman.</li>
+  <li><b>Currently Learning:</b> AWS, MERN Stack Development.</li>
 </ul>
 
 <hr>
