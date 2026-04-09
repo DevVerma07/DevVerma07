@@ -71,17 +71,16 @@
 <h2> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"/> GitHub Stats</h2>
 <p align="center">
 <a href="https://github.com/DevVerma07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevVerma07&show_icons=true&theme=algolia" alt"dev stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVerma07&layout=compact&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=devverma07&show_icons=true&theme=github_dark" alt"dev stats"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devverma07&layout=compact&theme=github_dark" />
 </a>
 </p>
-
 <hr>
 
 ## <img src="https://media.giphy.com/media/Leoxjtlf6ABAnMlg96/giphy.gif" height="35" width="30"> GitHub streak </h2>
 
 <p align="center">
-    <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=DevVerma07&theme=algolia&hide_border=false" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=devverma07&theme=github_dark" />
 </p>
 
 <h2> <img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"> Let's connect</h2>
