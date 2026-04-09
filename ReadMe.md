@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-  I'm Dev Kumar Verma, a passionate Software Developer (Laravel Developer) based in India with 2+ years of experience working on real-world SaaS applications like restaurant POS and society management systems.
+  I'm Dev Kumar Verma, a passionate Software Developer (Laravel Developer) based in India with 3+ years of experience working on real-world SaaS applications like restaurant POS and society management systems.
 </p>
 
 <hr>
