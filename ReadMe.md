@@ -10,7 +10,7 @@
 ![GitHub Contributors](https://img.shields.io/github/contributors/DevVerma07/DevVerma07?style=plastic&labelColor=blue&color=teal)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/DevVerma07/DevVerma07?style=plastic&labelColor=blue&color=teal)
 ![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCQ-iXpqlH5o3ANbtHlJFZ3Q?style=plastic&logo=youtube&logoColor=red&labelColor=blue&color=red)
-[![Maintenance](https://img.shields.io/maintenance/yes/2025?style=plastic&labelColor=blue&color=teal)](https://img.shields.io/maintenance/yes/2024?style=plastic&labelColor=blue&color=teal)
+[![Maintenance](https://img.shields.io/maintenance/yes/2026?style=plastic&labelColor=blue&color=teal)](https://img.shields.io/maintenance/yes/2024?style=plastic&labelColor=blue&color=teal)
 
 <a> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
 
